@@ -23,6 +23,8 @@ public class App
     		System.out.println("Body : " +post.getBody());
     		System.out.println("-------- -----------");
     		System.out.println("====================");
+    		
+    		System.out.println("--test1--");
     	}
     }
 
