@@ -21,7 +21,8 @@ public class App
     		System.out.println("Id : " +post.getId());
     		System.out.println("Title : " +post.getTitle());
     		System.out.println("Body : " +post.getBody());
-    		System.out.println("------------------");
+    		System.out.println("-------- -----------");
+    		System.out.println("====================");
     	}
     }
 
